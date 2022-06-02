@@ -1,4 +1,4 @@
-# transcriptio_and_summarization
+# transcription_and_summarization
 
 Nowadays, we have access to a large amount of data resources. It is
 difficult and time-consuming for human beings to extract the summary
